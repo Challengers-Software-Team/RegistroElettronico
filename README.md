@@ -7,4 +7,3 @@ Questo solido team è composto da 3 individui :
 - Bozzo Gianluca
 - Gradinaru Andrei
 
-cir ci è stato assegnato dalla Old sport company, consiste nel creare un database in grado di gestire il funzionamento di un'appaorato scolastico e ne gestisca voti assenze e tutto ciò che riguardi alunni e insegnanti.
